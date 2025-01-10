@@ -16,7 +16,7 @@ const quizData = [
         options: ["3", "5", "7", "4"],
         answer: "5",
     },
-    
+
     {
         question: "What is the boiling point of water?",
         options: ["90°C", "100°C", "120°C", "150°C"],
@@ -104,10 +104,12 @@ function endQuiz() {
 
     if (score >= WINNING_SCORE) {
         resultMessageElement.textContent = "Congratulations! You're a Winner! 🎉";
-        resultGifElement.src = "https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif";
+        resultGifElement.src = "https://media.giphy.com/media/tep0hqBzItLq1AEmdm/giphy.gif";
+       
+       
     } else {
         resultMessageElement.textContent = "Better Luck Next Time! 😔";
-        resultGifElement.src = "https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif";
+        resultGifElement.src = "https://media.giphy.com/media/jDOcKSiXCeFubgZvil/giphy.gif";
     }
 }
 
