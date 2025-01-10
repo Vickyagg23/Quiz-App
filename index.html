@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz App</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <div id="quiz">
+      <p class="question" id="question"></p>
+      <div class="options" id="options"></div>
+    </div>
+    <div id="result" class="hidden">
+      <h2 id="result-message"></h2>
+      <img id="result-gif" alt="Result GIF">
+      <button onclick="restartQuiz()">Play Again</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
