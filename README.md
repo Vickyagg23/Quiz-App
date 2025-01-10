@@ -16,5 +16,5 @@ HTML: For the structure of the application.
 CSS: For styling and improving user interface design.
 JavaScript: For dynamic functionality, handling quiz logic, and score calculation.
 
-# This project is perfect for beginners learning JavaScript or anyone looking for a fun way to enhance their web development skills. 🚀
+# anyone looking for a fun way to enhance their web development skills. 🚀
 
