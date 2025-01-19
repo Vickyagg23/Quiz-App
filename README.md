@@ -10,8 +10,11 @@ This Quiz App is a fun and interactive project that allows users to test their k
 ✅  Score Calculation: Tracks the user's score based on correct answers.
 
 🏆  Win or Lose Determination: Declares the user a winner if their score exceeds a specified threshold.
+
 🎥 Result Feedback with GIFs: Displays unique GIFs for winners and those who don't reach the threshold.
+
 🔄 Replay Option: Allows the user to restart the quiz and try again.
+
 
 # Technologies Used :-
 - HTML: For the structure of the application.
