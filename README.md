@@ -12,9 +12,9 @@ This Quiz App is a fun and interactive project that allows users to test their k
 🔄 Replay Option: Allows the user to restart the quiz and try again.
 
 # Technologies Used :-
-HTML: For the structure of the application.
-CSS: For styling and improving user interface design.
-JavaScript: For dynamic functionality, handling quiz logic, and score calculation.
+- HTML: For the structure of the application.
+- CSS: For styling and improving user interface design.
+- JavaScript: For dynamic functionality, handling quiz logic, and score calculation.
 
 # It's for fun to enhance their web development skills. 🚀
 
